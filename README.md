@@ -15,3 +15,17 @@ And then you'll need to run:
 ```zsh
 $ mix deps.get
 ```
+
+And then you should be able to start your local application:
+
+```zsh
+$ iex -S mix
+```
+
+## Tests
+
+If you want to run the tests you only need to run the command below:
+
+```zsh
+$ mix test
+```
